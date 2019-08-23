@@ -310,6 +310,10 @@ padding-top: 0px;
 padding-bottom: 0px;
 }
 
+.recommendations {
+	margin-bottom: 0px;
+	margin-top:18px;
+}
 .recommendclass {
 	padding-top: 0px;
 }
@@ -638,6 +642,9 @@ h1.arrow span {
 .about-text {
 	padding:20px 50px 15px 50px;
 
+}
+.text-section-two {
+	padding:20px 50px 15px 50px;
 }
 .about-text h1 {
 	text-transform:uppercase;
